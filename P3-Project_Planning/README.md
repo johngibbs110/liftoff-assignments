@@ -13,6 +13,8 @@ Include at least 3 wireframes here, adding images or files to your repository as
 - [Subscription App Homepage](https://github.com/johngibbs110/liftoff-assignments/blob/master/P3-Project_Planning/Subscription%20App%20Homepage.pdf) 
 - [Subscription App Welcome Page](https://github.com/johngibbs110/liftoff-assignments/blob/master/P3-Project_Planning/Subscription%20App%20Welcome%20Page.pdf)
 - [Subscription App Add a Subscriber Page](https://github.com/johngibbs110/liftoff-assignments/blob/master/P3-Project_Planning/Subscription%20App%20Add%20a%20Subscriber%20Page.pdf)
+- [Subscription App Search Page](https://github.com/johngibbs110/liftoff-assignments/blob/master/P3-Project_Planning/Subscription%20App%20Search%20Page.pdf)
+- [Subscription App View My Subscription Page](https://github.com/johngibbs110/liftoff-assignments/blob/master/P3-Project_Planning/Subscription%20App%20View%20My%20Subscription%20Page.pdf)
 
 ### Project Tracker
 
