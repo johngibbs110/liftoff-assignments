@@ -8,9 +8,13 @@ For this assignment you will need to upload your resume and provide links to you
  
 ### GitHub
 Provide a link to your GitHub account here.
+
+- [GitHub Profile](https://github.com/johngibbs110)
  
 ### LinkedIn
 Provide a link to your LinkedIn account here.
+
+- [LinkedIn Profile](https://www.linkedin.com/in/john-gibbs-130b8a181/)
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
